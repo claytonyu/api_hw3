@@ -50,7 +50,7 @@ ARROW_SIZE = 10
 TITLE_CHARS_PER_DIAMETER = 45 / 150
 MIN_TITLE_CHARS = 15
 
-DEFAULT_DEPTH = 2
+DEFAULT_DEPTH = 3
 DEFAULT_PER_NODE = 5
 
 # Node circle sizing, driven by citationCount (see node_diameter_for()):
