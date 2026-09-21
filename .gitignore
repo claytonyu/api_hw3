@@ -1,0 +1,6 @@
+.env
+.venv/*
+__pycache__/*
+*.zip
+VIEWER_PLAN.md
+DESIGN.md
